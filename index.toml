@@ -46,11 +46,6 @@ hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
 metafile = true
