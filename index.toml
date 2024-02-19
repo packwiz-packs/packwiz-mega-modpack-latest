@@ -221,6 +221,11 @@ hash = "6919a98c9da5cbe39bb8c871c4f2854839f3947b03a8781970322f8982e01755"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "4146ae138de3c7a7cc0204b3de486736c1901273f412056553e451b03706a8a6"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "7f148daee130716f4c5160113e635a6d067c28944994f84d2471beba4d9c2842"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
 
 [[files]]
