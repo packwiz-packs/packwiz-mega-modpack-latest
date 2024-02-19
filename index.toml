@@ -66,6 +66,11 @@ hash = "c20b67c03bc31c5bd924dcd1bcea4f3078f5a291855fc22f7862cfb7cca0dfc2"
 metafile = true
 
 [[files]]
+file = "mods/classic-minecraft-icon.pw.toml"
+hash = "cf4cd92f8e7118480b60fe13dc703e55a779ed00741091c370e16afe2c7fc60d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
