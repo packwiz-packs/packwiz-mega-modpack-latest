@@ -16,6 +16,11 @@ hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
 metafile = true
 
 [[files]]
+file = "mods/armor-indicator.pw.toml"
+hash = "887692e42fb949e71fffeb26892884138944a01ae93d8707d925d961c5ada608"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
