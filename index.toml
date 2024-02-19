@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5565745a71c49c243d26050d2dc94b7544057ff1e39b24428f9c3ca33df1c828"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6919a98c9da5cbe39bb8c871c4f2854839f3947b03a8781970322f8982e01755"
+hash = "870e21614f646ee4005d3bcbda08f9ccaad8d3955f675fa887ca34f97c5a666e"
 metafile = true
 
 [[files]]
