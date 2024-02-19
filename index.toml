@@ -81,6 +81,16 @@ hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "1bfa978c09e27a1b064119a8ebe53083f63abc3625055f49f0f086a64c0222bb"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "debab1b6732fce31b240d311d86b441329ba46aae132c9f236af1fe90af00d94"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a659fc922dfbcbb29bad2bbc11dd34cb1686c3c9cde9a93fe484db0f4e4c3062"
 metafile = true
@@ -103,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "d298cb63d8d301028a8ca538c81dadfc7c19a0aeb0f48037b6e8a9f25334d4eb"
 metafile = true
 
 [[files]]
