@@ -16,11 +16,6 @@ hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
 metafile = true
 
 [[files]]
-file = "mods/armor-indicator.pw.toml"
-hash = "887692e42fb949e71fffeb26892884138944a01ae93d8707d925d961c5ada608"
-metafile = true
-
-[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
@@ -293,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "3ca11933d7d69afdb7fd7115364313d4c9e67f8026e351e62fb40cf70a945686"
+metafile = true
+
+[[files]]
+file = "mods/simple-hud-utilities.pw.toml"
+hash = "696fa0acc14fad9e6651d834e4b0cdb80730c2ff3c65c476b6b64a7105ff5805"
 metafile = true
 
 [[files]]
