@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "8963dfc913d67255e78f3ac1274f3b642c40c9f2e16380e51354afce54642254"
+hash = "a8b7f0fe1113d6066379b15a4260be882747cc806cdc3c0b437fac81d754bce6"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9735cfdf52b2e2e08f1a560b4f34ddb50ada9ddffc7175665fd1cdbe884bb969"
+hash = "e21475a4fe14467cf11e8745ac31505dd604499e189d9c355d2b1ec153d8c420"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "870e21614f646ee4005d3bcbda08f9ccaad8d3955f675fa887ca34f97c5a666e"
+hash = "0be62311e3d6d9b60faebd25226d8b79a3ffaa359c5d7c0d67c7a0d4d808bcfc"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "937bd200c74fe8c5391a4c85b9e901ed35332c00b3757a82df545c14770a585a"
+hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
 metafile = true
 
 [[files]]
