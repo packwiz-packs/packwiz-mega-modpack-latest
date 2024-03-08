@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "e21475a4fe14467cf11e8745ac31505dd604499e189d9c355d2b1ec153d8c420"
+hash = "2eda4b018ef7e0051a300d9cc1bfe5b540303a831504ff4ab226b1b729be3083"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a659fc922dfbcbb29bad2bbc11dd34cb1686c3c9cde9a93fe484db0f4e4c3062"
+hash = "911920a0d32f628838f1d389df2c53c77b66e7818480b108820d07b4043c21ce"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
+hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "bdf549c3ea58e3cb6a674684788dfbc38472207707d498e031bed21d3b2bde19"
+hash = "cf6eb10e4876b2da57e112e92e36e452d015e62492004315cff570aeeb25bebe"
 metafile = true
 
 [[files]]
@@ -242,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0be62311e3d6d9b60faebd25226d8b79a3ffaa359c5d7c0d67c7a0d4d808bcfc"
+hash = "82563b1d3223b01f21f4ebbfa09723b4ace3dc973e0bf8cd356ea7ea1d810342"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "4146ae138de3c7a7cc0204b3de486736c1901273f412056553e451b03706a8a6"
+hash = "c87cd54863e86369d69ab5d03e3845617ee171b554478cdb2a2f68f20867abe9"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "9826c6020d1498b3c80d825f6ad272234c201b3ace8fb862e2aeebd7bb45fb74"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]

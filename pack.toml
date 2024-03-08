@@ -1,12 +1,12 @@
 name = "Packwiz Mega Modpack [Latest]"
 author = "womble"
-version = "1.6.7"
+version = "1.7.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bacd21be24c23507836971930bce01bd639ba6ad3299ad50b0d43016ae868b7"
+hash = "2dfa3284ffde7d5a5eb7cc8eb2bc0856055f71fc64d12b096ca0b17f17724a23"
 
 [versions]
 fabric = "0.15.7"
